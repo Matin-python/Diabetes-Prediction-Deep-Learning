@@ -256,7 +256,10 @@ The exact accuracy and loss can vary depending on the dataset and model training
 ## Project Structure
 
 ```text
-Diabetes-prediction-Deep_Learning/
+Diabetes-Prediction-Deep_Learning/
+│
+├── screenshots/
+│   ├── outcome_distribution.png
 │
 ├── diabetes2.csv
 ├── diabetes_prediction.py
@@ -271,13 +274,13 @@ Diabetes-prediction-Deep_Learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Matin-python/Diabetes-prediction-Deep_Learning.git
+git clone https://github.com/Matin-python/Diabetes-Prediction-Deep_Learning.git
 ```
 
 Go to the project directory:
 
 ```bash
-cd Diabetes-prediction-Deep_Learning
+cd Diabetes-Prediction-Deep_Learning
 ```
 
 Install the required libraries:
@@ -325,7 +328,7 @@ For the Machine Learning implementation using Logistic Regression, see:
 
 **Diabetes Prediction using Logistic Regression**
 
-https://github.com/Matin-python/Diabetes-Prediction-Logistic-Regression
+➡️ Repository: https://github.com/Matin-python/Diabetes-Prediction-Logistic-Regression
 
 The related project uses **Logistic Regression** from Scikit-learn to solve the same binary classification problem.
 
