@@ -237,6 +237,8 @@ plt.title('Training Loss')
 plt.show()
 ```
 
+<img src="screenshots/Training_Loss.png" width="600">
+
 This graph shows how the training loss changes over the 200 training epochs.
 
 ## Example Output
