@@ -279,21 +279,15 @@ The project can also be explored using the Jupyter Notebook:
 jupyter notebook diabetes_prediction.ipynb
 ```
 
-## Machine Learning vs Deep Learning
-
-This project is related to another diabetes prediction project that uses Logistic Regression.
-
-### 🧠 Machine Learning — Logistic Regression
-
-**Diabetes Prediction using Logistic Regression**
-
-This project uses Logistic Regression from Scikit-learn to solve the diabetes binary classification problem.
-
-### 🤖 Deep Learning — Artificial Neural Network
-
-**Diabetes Prediction using Deep Learning**
+## Related Project
 
 This project uses an Artificial Neural Network built with TensorFlow/Keras to solve the diabetes prediction problem.
+
+For a Logistic Regression implementation of the same problem, see:
+
+### 🧠 Diabetes Prediction using Logistic Regression
+
+This project uses Logistic Regression from Scikit-learn to solve the diabetes binary classification problem.
 
 ### Comparison
 
@@ -309,6 +303,7 @@ This project uses an Artificial Neural Network built with TensorFlow/Keras to so
 
 These two projects demonstrate how the same type of classification problem can be approached using both traditional Machine Learning and Deep Learning techniques.
 
+➡️ Repository: https://github.com/Matin-python/Diabetes-Prediction-Logistic-Regression
 
 ## License
 
