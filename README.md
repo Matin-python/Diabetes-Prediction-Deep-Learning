@@ -217,7 +217,7 @@ The exact results may vary between runs because the dataset is randomly divided 
 ## Project Structure
 
 ```text
-Diabetes-prediction-Deep_Learning/
+Diabetes-Prediction-Deep_Learning/
 │
 ├── diabetes_prediction.py
 ├── diabetes_prediction.ipynb
@@ -231,13 +231,13 @@ Diabetes-prediction-Deep_Learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Matin-python/Diabetes-prediction-Deep_Learning.git
+git clone https://github.com/Matin-python/Diabetes-Prediction-Deep_Learning.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd Diabetes-prediction-Deep_Learning
+cd Diabetes-Prediction-Deep_Learning
 ```
 
 Install the required packages:
