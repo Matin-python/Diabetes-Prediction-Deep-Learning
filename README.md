@@ -123,6 +123,7 @@ Dense Layer
        ↓
 Prediction
 ```
+<img src="model_DL.png" width="1000">
 
 The model is created using:
 
@@ -256,14 +257,15 @@ The exact accuracy and loss can vary depending on the dataset and model training
 ## Project Structure
 
 ```text
-Diabetes-Prediction-Deep_Learning/
+Diabetes-Prediction-Deep-Learning/
 │
 ├── screenshots/
-│   ├── outcome_distribution.png
+│   └── Training_Loss.png
 │
 ├── diabetes2.csv
 ├── diabetes_prediction.py
 ├── diabetes_prediction.ipynb
+├── model_DL.png
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -280,7 +282,7 @@ git clone https://github.com/Matin-python/Diabetes-Prediction-Deep_Learning.git
 Go to the project directory:
 
 ```bash
-cd Diabetes-Prediction-Deep_Learning
+cd Diabetes-Prediction-Deep-Learning
 ```
 
 Install the required libraries:
