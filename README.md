@@ -293,6 +293,11 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 
+Install the required libraries manually:
+```bash
+pip install numpy pandas tensorflow keras scikit-learn matplotlib
+```
+
 ## How to Run
 
 Run the Python script:
